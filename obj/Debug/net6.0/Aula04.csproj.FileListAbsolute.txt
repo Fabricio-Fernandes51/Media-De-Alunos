@@ -1,0 +1,15 @@
+C:\csharp\aula04\bin\Debug\net6.0\Aula04.exe
+C:\csharp\aula04\bin\Debug\net6.0\Aula04.deps.json
+C:\csharp\aula04\bin\Debug\net6.0\Aula04.runtimeconfig.json
+C:\csharp\aula04\bin\Debug\net6.0\Aula04.dll
+C:\csharp\aula04\bin\Debug\net6.0\Aula04.pdb
+C:\csharp\aula04\obj\Debug\net6.0\Aula04.csproj.AssemblyReference.cache
+C:\csharp\aula04\obj\Debug\net6.0\Aula04.GeneratedMSBuildEditorConfig.editorconfig
+C:\csharp\aula04\obj\Debug\net6.0\Aula04.AssemblyInfoInputs.cache
+C:\csharp\aula04\obj\Debug\net6.0\Aula04.AssemblyInfo.cs
+C:\csharp\aula04\obj\Debug\net6.0\Aula04.csproj.CoreCompileInputs.cache
+C:\csharp\aula04\obj\Debug\net6.0\Aula04.dll
+C:\csharp\aula04\obj\Debug\net6.0\refint\Aula04.dll
+C:\csharp\aula04\obj\Debug\net6.0\Aula04.pdb
+C:\csharp\aula04\obj\Debug\net6.0\Aula04.genruntimeconfig.cache
+C:\csharp\aula04\obj\Debug\net6.0\ref\Aula04.dll
